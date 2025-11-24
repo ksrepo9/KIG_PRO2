@@ -1,5 +1,3 @@
----
-
 ### **Basic Concepts & Fundamentals**
 
 These questions test your understanding of what Lambda is and its core components.
