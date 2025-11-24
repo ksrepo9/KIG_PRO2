@@ -3,7 +3,8 @@
 These questions test your understanding of what Lambda is and its core components.
 
 **Q1: What is AWS Lambda, and what is its primary use case?**
-**Answer:** AWS Lambda is a serverless, event-driven compute service that lets you run code without provisioning or managing servers. Its primary use case is to run backend code in response to events like HTTP requests (via API Gateway), file uploads to S3, updates in a DynamoDB table, or messages from a queue. You pay only for the compute time you consume.
+**Answer:** 
+AWS Lambda is a serverless, event-driven compute service that lets you run code without provisioning or managing servers. Its primary use case is to run backend code in response to events like HTTP requests (via API Gateway), file uploads to S3, updates in a DynamoDB table, or messages from a queue. You pay only for the compute time you consume.
 
 **Q2: Explain the basic components of a Lambda function.**
 **Answer:**
